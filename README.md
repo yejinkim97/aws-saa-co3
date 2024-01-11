@@ -40,8 +40,8 @@ The exam is divided into multiple domains, each focusing on specific AWS service
 
 To assess your knowledge and familiarize yourself with the exam format, take practice tests:
 
-- **Whizlabs:** Access [Whizlabs practice tests](https://www.whizlabs.com/aws-solutions-architect-associate/) for realistic exam simulations.
 - **AWS Sample Questions:** Review the [official sample questions](https://www.aws.training/certification?src=exam-prep) provided by AWS.
+- **Exam Topics:** Access [Exam Topics practice tests](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/) for realistic exam questions.
 
 ## Hands-On Labs
 
